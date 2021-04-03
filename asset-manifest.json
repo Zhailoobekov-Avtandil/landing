@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/urok2-2/static/css/main.c49ca256.chunk.css",
+    "main.js": "/urok2-2/static/js/main.6ed04e33.chunk.js",
+    "main.js.map": "/urok2-2/static/js/main.6ed04e33.chunk.js.map",
+    "runtime-main.js": "/urok2-2/static/js/runtime-main.1b9cc419.js",
+    "runtime-main.js.map": "/urok2-2/static/js/runtime-main.1b9cc419.js.map",
+    "static/js/2.64ec9ed6.chunk.js": "/urok2-2/static/js/2.64ec9ed6.chunk.js",
+    "static/js/2.64ec9ed6.chunk.js.map": "/urok2-2/static/js/2.64ec9ed6.chunk.js.map",
+    "index.html": "/urok2-2/index.html",
+    "static/css/main.c49ca256.chunk.css.map": "/urok2-2/static/css/main.c49ca256.chunk.css.map",
+    "static/js/2.64ec9ed6.chunk.js.LICENSE.txt": "/urok2-2/static/js/2.64ec9ed6.chunk.js.LICENSE.txt",
+    "static/media/img.34650328.png": "/urok2-2/static/media/img.34650328.png",
+    "static/media/img2.f0aaf919.png": "/urok2-2/static/media/img2.f0aaf919.png",
+    "static/media/pic.1922f8e3.png": "/urok2-2/static/media/pic.1922f8e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b9cc419.js",
+    "static/js/2.64ec9ed6.chunk.js",
+    "static/css/main.c49ca256.chunk.css",
+    "static/js/main.6ed04e33.chunk.js"
+  ]
+}
