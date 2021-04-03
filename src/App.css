@@ -1,0 +1,13 @@
+.helpcard {
+  width: 1437px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.cardhelp {
+  width: 1437px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}

@@ -1,0 +1,112 @@
+.card {
+  width: 1437px;
+  height: 840px;
+  background: #f4f9e2;
+  margin: 0 auto;
+}
+
+.block nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.block nav ul {
+  display: flex;
+  padding-top: 38px;
+}
+
+.block nav ul li {
+  list-style: none;
+  font-family: Larsseit;
+  font-size: 14px;
+  line-height: 16px;
+  padding-right: 10px;
+  color: #22356f;
+}
+
+.block nav h3 {
+  font-family: Larsseit;
+  font-size: 24px;
+  line-height: 27px;
+  letter-spacing: -0.035em;
+  color: #62d0df;
+  padding: 27px 0 0 179px;
+}
+
+.btn {
+  width: 150px;
+  height: 50px;
+  background: #62d0df;
+  border-radius: 50px;
+  margin: 27px 130px 0 0;
+  border: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+}
+
+.item {
+  width: 60%;
+}
+
+.item h3 {
+  font-family: Larsseit;
+  font-size: 24px;
+  line-height: 27px;
+  letter-spacing: -0.035em;
+  padding: 187px 0 0 179px;
+  color: #62d0df;
+}
+
+.item h1 {
+  font-family: Larsseit;
+  font-size: 48px;
+  line-height: 53px;
+  letter-spacing: -0.035em;
+  width: 550px;
+  height: 64px;
+  color: #22356f;
+  padding: 0 0 0 179px;
+}
+
+.item p {
+  font-family: Larsseit;
+  font-size: 24px;
+  line-height: 42px;
+  width: 469px;
+  height: 161px;
+  color: #22356f;
+  padding: 80px 0 0 179px;
+}
+
+.btns {
+  padding: 33px 0 0 179px;
+}
+
+.btn1 {
+  width: 150px;
+  height: 50px;
+  background: #f9b640;
+  font-family: Larsseit;
+  font-size: 16px;
+  line-height: 23px;
+  letter-spacing: 0.1em;
+  border: none;
+  color: #ffffff;
+}
+
+.btn2 {
+  font-family: Larsseit;
+  font-size: 16px;
+  line-height: 23px;
+  letter-spacing: 0.1em;
+  width: 150px;
+  height: 43px;
+  color: #fab63e;
+  background: none;
+  border: none;
+  margin-left: 30px;
+}
